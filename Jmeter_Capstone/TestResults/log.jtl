@@ -1,0 +1,89 @@
+2025-05-23 23:05:15,072 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-05-23 23:05:15,129 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-05-23 23:05:15,144 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: Version 5.6.3
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: java.version=1.8.0_452-452
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: os.name=Windows 11
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: os.arch=amd64
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: os.version=10.0
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: file.encoding=Cp1252
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: java.awt.headless=true
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-05-23 23:05:15,159 INFO o.a.j.JMeter: Available Processors =12
+2025-05-23 23:05:15,191 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-05-23 23:05:15,191 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-05-23 23:05:15,191 INFO o.a.j.JMeter: JMeterHome=C:\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2025-05-23 23:05:15,191 INFO o.a.j.JMeter: user.dir  =C:\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2025-05-23 23:05:15,198 INFO o.a.j.JMeter: PWD       =C:\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2025-05-23 23:05:15,202 INFO o.a.j.JMeter: IP: 192.168.156.50 Name: ASCINLAP61553 FullName: ASCINLAP61553
+2025-05-23 23:05:15,243 INFO o.a.j.s.FileServer: Default base='C:\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2025-05-23 23:05:15,243 INFO o.a.j.s.FileServer: Set new base='C:\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2025-05-23 23:05:15,621 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-05-23 23:05:15,718 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-05-23 23:05:15,718 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-05-23 23:05:15,733 INFO o.a.j.s.SaveService: Loading file: C:\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\BlazeDemo_proj.jmx
+2025-05-23 23:05:15,869 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2025-05-23 23:05:15,875 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2025-05-23 23:05:15,937 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-23 23:05:15,937 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-23 23:05:15,937 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-23 23:05:15,937 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-05-23 23:05:15,937 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-05-23 23:05:15,939 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-05-23 23:05:16,692 INFO o.a.j.JMeter: Creating summariser <summary>
+2025-05-23 23:05:16,728 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-05-23 23:05:16,736 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-23 23:05:16,736 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-05-23 23:05:16,774 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-05-23 23:05:16,774 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-05-23 23:05:17,623 INFO o.a.j.r.ClassFinder: Will scan jar C:\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\lib\ext\jmeter-plugins-manager-1.10.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-05-23 23:05:18,098 INFO o.a.j.JMeter: Running test (1748021718098)
+2025-05-23 23:05:18,171 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2025-05-23 23:05:18,178 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Thread Group.
+2025-05-23 23:05:18,178 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-05-23 23:05:18,179 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=1 delayedStart=false
+2025-05-23 23:05:18,245 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-05-23 23:05:18,247 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-05-23 23:05:18,247 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-05-23 23:05:18,247 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-05-23 23:05:18,280 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-05-23 23:05:18,280 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-05-23 23:05:28,179 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2025-05-23 23:05:28,281 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-2
+2025-05-23 23:05:28,283 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = ASCINLAP61553
+2025-05-23 23:05:28,305 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-05-23 23:05:28,380 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-3
+2025-05-23 23:05:28,481 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-4
+2025-05-23 23:05:28,581 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-5
+2025-05-23 23:05:28,680 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-6
+2025-05-23 23:05:28,734 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-05-23 23:05:28,754 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-05-23 23:05:28,755 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-05-23 23:05:28,781 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-7
+2025-05-23 23:05:28,880 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-8
+2025-05-23 23:05:28,982 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-9
+2025-05-23 23:05:29,080 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-10
+2025-05-23 23:05:29,227 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-05-23 23:05:29,243 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-05-23 23:05:29,243 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-05-23 23:05:32,766 INFO o.a.j.r.Summariser: summary +      1 in 00:00:15 =    0.1/s Avg:  4212 Min:  4212 Max:  4212 Err:     0 (0.00%) Active: 10 Started: 10 Finished: 0
+2025-05-23 23:05:55,301 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2025-05-23 23:05:55,927 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-6
+2025-05-23 23:05:57,581 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-7
+2025-05-23 23:05:58,899 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-4
+2025-05-23 23:05:59,655 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-9
+2025-05-23 23:06:00,328 INFO o.a.j.r.Summariser: summary +     17 in 00:00:28 =    0.6/s Avg:  2298 Min:   182 Max:  4329 Err:     0 (0.00%) Active: 5 Started: 10 Finished: 5
+2025-05-23 23:06:00,329 INFO o.a.j.r.Summariser: summary =     18 in 00:00:42 =    0.4/s Avg:  2405 Min:   182 Max:  4329 Err:     0 (0.00%)
+2025-05-23 23:06:01,375 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-2
+2025-05-23 23:06:03,181 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-10
+2025-05-23 23:06:34,220 INFO o.a.j.r.Summariser: summary +      3 in 00:00:34 =    0.1/s Avg:   416 Min:   206 Max:   582 Err:     0 (0.00%) Active: 3 Started: 10 Finished: 7
+2025-05-23 23:06:34,223 INFO o.a.j.r.Summariser: summary =     21 in 00:01:16 =    0.3/s Avg:  2121 Min:   182 Max:  4329 Err:     0 (0.00%)
+2025-05-23 23:06:55,826 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-3
+2025-05-23 23:07:27,190 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-8
+2025-05-23 23:07:27,190 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-8
+2025-05-23 23:07:27,971 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-5
+2025-05-23 23:07:27,973 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-05-23 23:07:27,973 INFO o.a.j.r.Summariser: summary +      4 in 00:00:54 =    0.1/s Avg:   546 Min:   384 Max:   682 Err:     0 (0.00%) Active: 0 Started: 10 Finished: 10
+2025-05-23 23:07:27,973 INFO o.a.j.r.Summariser: summary =     25 in 00:02:10 =    0.2/s Avg:  1869 Min:   182 Max:  4329 Err:     0 (0.00%)

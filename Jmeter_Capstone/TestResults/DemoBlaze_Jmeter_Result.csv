@@ -1,0 +1,27 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1748021728522,4212,Login,200,OK,Thread Group 1-2,text,true,,4854,523,10,10,https://www.demoblaze.com/index.html,4202,0,3733
+1748021728992,3743,Login,200,OK,Thread Group 1-9,text,true,,4854,523,10,10,https://www.demoblaze.com/index.html,3733,0,3264
+1748021729086,3649,Login,200,OK,Thread Group 1-10,text,true,,4854,523,10,10,https://www.demoblaze.com/index.html,3639,0,3170
+1748021728523,4212,Login,200,OK,Thread Group 1-3,text,true,,4854,523,10,10,https://www.demoblaze.com/index.html,4202,0,3733
+1748021728785,3950,Login,200,OK,Thread Group 1-7,text,true,,4854,523,10,10,https://www.demoblaze.com/index.html,3940,0,3471
+1748021728885,3877,Login,200,OK,Thread Group 1-8,text,true,,4854,523,10,10,https://www.demoblaze.com/index.html,3876,0,3383
+1748021728687,4101,Login,200,OK,Thread Group 1-6,text,true,,19902,523,10,10,https://www.demoblaze.com/index.html,4088,0,3569
+1748021728589,4201,Login,200,OK,Thread Group 1-5,text,true,,19902,523,10,10,https://www.demoblaze.com/index.html,4200,0,3668
+1748021728523,4296,Login,200,OK,Thread Group 1-4,text,true,,19902,523,10,10,https://www.demoblaze.com/index.html,4296,0,3733
+1748021728522,4329,Login,200,OK,Thread Group 1-1,text,true,,19902,523,10,10,https://www.demoblaze.com/index.html,4324,0,3733
+1748021754688,358,Selet Product,200,OK,Thread Group 1-1,text,true,,22049,530,10,10,https://www.demoblaze.com/prod.html?idp_=14,350,0,0
+1748021755436,418,Selet Product,200,OK,Thread Group 1-6,text,true,,22049,530,9,9,https://www.demoblaze.com/prod.html?idp_=14,417,0,0
+1748021756495,372,Selet Product,200,OK,Thread Group 1-3,text,true,,22049,530,8,8,https://www.demoblaze.com/prod.html?idp_=14,366,0,0
+1748021757159,386,Selet Product,200,OK,Thread Group 1-7,text,true,,22049,530,8,8,https://www.demoblaze.com/prod.html?idp_=14,378,0,0
+1748021758147,206,Selet Product,200,OK,Thread Group 1-8,text,true,,22049,530,7,7,https://www.demoblaze.com/prod.html?idp_=14,201,0,0
+1748021758675,182,Selet Product,200,OK,Thread Group 1-4,text,true,,22049,530,7,7,https://www.demoblaze.com/prod.html?idp_=14,158,0,0
+1748021759204,393,Selet Product,200,OK,Thread Group 1-9,text,true,,22053,530,6,6,https://www.demoblaze.com/prod.html?idp_=14,385,0,0
+1748021759889,408,Selet Product,200,OK,Thread Group 1-5,text,true,,22049,530,5,5,https://www.demoblaze.com/prod.html?idp_=14,403,0,0
+1748021760876,461,Selet Product,200,OK,Thread Group 1-2,text,true,,22049,530,5,5,https://www.demoblaze.com/prod.html?idp_=14,461,0,0
+1748021762940,206,Selet Product,200,OK,Thread Group 1-10,text,true,,22049,530,4,4,https://www.demoblaze.com/prod.html?idp_=14,186,0,0
+1748021793637,582,Add to Cart,200,OK,Thread Group 1-8,text,true,,5625,522,3,3,https://www.demoblaze.com/cart.html,582,0,266
+1748021815143,682,Add to Cart,200,OK,Thread Group 1-3,text,true,,24602,522,3,3,https://www.demoblaze.com/cart.html,636,0,252
+1748021838581,384,Place Order,304,Not Modified,Thread Group 1-8,,true,,165,548,2,2,https://www.demoblaze.com/index.html,0,0,0
+1748021846751,438,Logout,304,Not Modified,Thread Group 1-8,,true,,165,548,2,2,https://www.demoblaze.com/index.html,0,0,0
+1748021728881,5487,Test,200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-8,,true,,32858,2671,2,2,null,4659,112822,3649
+1748021847287,682,Add to Cart,200,OK,Thread Group 1-5,text,true,,24602,522,1,1,https://www.demoblaze.com/cart.html,672,0,269
